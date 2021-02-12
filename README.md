@@ -1,5 +1,5 @@
 # React Calculator
- A simple calculator to training react development
+ A simple calculator to train development in react
 
 ## Screenshot
 ![](./screenshots/calculator.png)
